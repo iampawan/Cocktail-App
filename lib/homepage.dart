@@ -6,6 +6,7 @@ import 'package:http/http.dart' as http;
 
 import 'main.dart';
 
+// * Just a comment
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
