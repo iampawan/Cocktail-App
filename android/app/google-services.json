@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212214493604",
+    "project_id": "drink2-55bb5",
+    "storage_bucket": "drink2-55bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212214493604:android:32456ee4814a7432a29131",
+        "android_client_info": {
+          "package_name": "com.example.fluttercocktail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212214493604-76d100j9vqtgi9h0mnr6jrc7bkpal75u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWTTf0-5H8l-GnrOLKlG9KGSvyGuTG1Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212214493604-76d100j9vqtgi9h0mnr6jrc7bkpal75u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
